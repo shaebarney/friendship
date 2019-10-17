@@ -10,7 +10,7 @@ window.geometry("400x400")
 def phrase_generator():
    phrases = ["are best friends!", "  will never make it", " should get together..*wink wink*... ", " will kill each "
                                                                                                     "other",
-              "better off apart" ]
+              "better off apart", "are in love", "need space"]
 
    name = str(entry_field1.get())
    name2 = str(entry_field2.get())
